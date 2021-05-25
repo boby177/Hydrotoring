@@ -1,7 +1,7 @@
 # Hydrotoring
 Hydroponic Monitoring
 
-     ![Screenshot_3](https://user-images.githubusercontent.com/37924224/119581753-64bdef00-bded-11eb-878e-d207ea57dcc9.png)
+ ![Screenshot_3](https://user-images.githubusercontent.com/37924224/119581753-64bdef00-bded-11eb-878e-d207ea57dcc9.png)
 
 Hydrotoring merupakan aplikasi yang saya buat ketika skripsi tugas akhir dikampus saya di Universitas
 Komputer Indonesia. 
