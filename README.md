@@ -13,6 +13,8 @@ mengecek temperature dan kelembaban udara, dan yang terakhir sensor YL-69 diguna
 kelembaban air larutan nutrisi. Semua nilai tersebut dari setiap sensor, disimpan pada database firebase secara
 real-time, yang akan ditampilkan melalui sebuah grafik atau chart pada website hydrotoring. 
 
+![Screenshot_2](https://user-images.githubusercontent.com/37924224/119581151-3b509380-bdec-11eb-89ae-a755258c7a65.png)
+
 Dengan bantuan
 microcontroller yaitu Arduino Uno 3 dan Raspberry Pi 3, yang mengatur semua kendali dari setiap sensor dan
 sistem aplikasi. Untuk lebih jelasnya lagi, dapat anda lihat arsitektur sistem maupun screenshoot dari aplikasi Hydrotoring.
