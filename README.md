@@ -16,7 +16,7 @@ kelembaban air larutan nutrisi. Semua nilai tersebut dari setiap sensor, disimpa
 real-time, yang akan ditampilkan melalui sebuah grafik atau chart pada website hydrotoring. 
 
 ![Screenshot_2](https://user-images.githubusercontent.com/37924224/119581151-3b509380-bdec-11eb-89ae-a755258c7a65.png)
-                    **[ARSITEKTUR SISTEM HYDROTORING]**
+               **[ARSITEKTUR SISTEM HYDROTORING]**
 
 Dengan bantuan
 microcontroller yaitu Arduino Uno 3 dan Raspberry Pi 3, yang mengatur semua kendali dari setiap sensor dan
