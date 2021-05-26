@@ -1,5 +1,4 @@
 # Hydrotoring
-Hydroponic Monitoring
 
  ![hydrotoring](https://user-images.githubusercontent.com/37924224/119583956-e4e65380-bdf1-11eb-904c-67ebeffac8bc.png)
 
